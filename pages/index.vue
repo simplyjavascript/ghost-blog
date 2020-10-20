@@ -46,4 +46,8 @@
 export default {};
 </script>
 
-<style></style>
+<style scoped>
+  section {
+    font-family: 'Quicksand', sans-serif;
+  }
+</style>
