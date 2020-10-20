@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- Please load different pages here in this placeholder -->
     <section class="hero is-medium">
       <div class="hero-head">
         <div class="container">
@@ -12,7 +11,7 @@
   </div>
 </template>
 <script>
-import TheHeader from "@/components/Header";
+import TheHeader from "@/components/Header.vue";
 export default {
   components: {
     TheHeader
